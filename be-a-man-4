@@ -57,11 +57,11 @@ cat <<EOF > /var/www/html/index.html
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
       <iframe src="https://www.realtor.com/realestateandhomes-detail/2710-Simondale-Dr_Fort-Worth_TX_76109_M80494-30316?asset_id=02I5F00000GQZXRAAJ&msockid=16a11825f8e36e3e0b440d0ef9126f8e>
-              width="500"
-              height="270"
+              width="400"
+              height="150"
               style="border-radius:10px;"
               frameBorder="0"
-              class="image"
+              class="webpage"
               allowFullScreen>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
