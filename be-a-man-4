@@ -1,4 +1,4 @@
-#Thanks to Remo
+arty#Thanks to Remo
 #!/bin/bash
 # Update and install Apache2
 apt update
@@ -75,8 +75,8 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>My Compute Instance Information</h1>
-      <h2>I Jerome, thank you Theo and Beron and Remo!</h2>
+      <h1>My House Party</h1>
+      <h2>I Jerome, thank you Theo and Beron!</h2>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
       <p><b>Zone: </b> $zone</p>
