@@ -61,7 +61,7 @@ cat <<EOF > /var/www/html/index.html
               height="150"
               style="border-radius:10px;"
               frameBorder="0"
-              class="giphy"
+              class="giphy-embed"
               allowFullScreen>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
