@@ -30,10 +30,10 @@ cat <<EOF > /var/www/html/index.html
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
   <style>
     body,h1,h3 {font-family: "Raleway", sans-serif}
-    body, html {height: 100%}
+    body, html {height: 80%}
     .bgimg {
       background-image: url('https://static.vecteezy.com/system/resources/previews/022/135/243/large_2x/medieval-knight-in-silver-armor-digital-illustration-ai-photo.jpeg');
-      min-height: 80%;
+      min-height: 100%;
       background-position: center;
       background-size: cover;
     }
