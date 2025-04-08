@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://www.redfin.com/TX/Fort-Worth/4316-Bellecour-Trl-76126/home/176633039>
+      <iframe src="https://ssl.cdn-redfin.com/photo/90/islphoto/730/genIslnoResize.20878730_7.jpg>
               width="400"
               height="150"
               style="border-radius:10px;"
