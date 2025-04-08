@@ -30,7 +30,7 @@ cat <<EOF > /var/www/html/index.html
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
   <style>
     body,h1,h3 {font-family: "Raleway", sans-serif}
-    body, html {height: 80%}
+    body, html {height: 100%}
     .bgimg {
       background-image: url('https://static.vecteezy.com/system/resources/previews/022/135/243/large_2x/medieval-knight-in-silver-armor-digital-illustration-ai-photo.jpeg');
       min-height: 100%;
@@ -57,8 +57,8 @@ cat <<EOF > /var/www/html/index.html
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
       <iframe src="https://giphy.com/embed/l41YdAOX7GO9LemnS" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a24-the-bling-ring-a-24-l41YdAOX7GO9LemnS">via GIPHY</a></p>
-              width="400"
-              height="150"
+              width="500"
+              height="270"
               style="border-radius:10px;"
               frameBorder="0"
               class="giphy-embed"
